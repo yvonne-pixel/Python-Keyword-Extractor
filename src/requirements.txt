@@ -1,0 +1,4 @@
+tldextract
+requests
+bs4
+nltk
